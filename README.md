@@ -11,9 +11,7 @@ I'm passionate about clean architecture, performance optimization, scalable appl
 ### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/pankaj-tomar-engineer/)
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7)](https://pankaj-tomar-engineer-portfolio.onrender.com/)
-
 [![Medium](https://img.shields.io/badge/Medium-Follow-black?logo=medium)](https://medium.com/@pankaj-tomar-engineer)
 
 ### 💻 Tech Stack
