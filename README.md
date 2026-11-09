@@ -1,12 +1,18 @@
 # Hi, I'm Pankaj Tomar 👋
 
-### Senior React Native Developer | Mobile Application Engineer
+### Senior React Native Developer | Mobile Application Engineer | Technical Team Lead
 
-I'm a Software Developer with **6+ years of experience** building scalable and production-ready mobile and web applications.
+Hi, I’m a React Native Developer and Technical Team Lead with over **6+ years of experience** in software development, primarily focused on building scalable cross-platform mobile applications.
 
-I specialize in developing cross-platform mobile applications using React Native, JavaScript, and TypeScript, along with backend development using Node.js and Express.js.
+I have strong experience with React Native, JavaScript, TypeScript, Redux Toolkit, REST APIs, and mobile application architecture. I’ve worked extensively on fintech and cross-border payment applications, where I’ve handled features such as authentication, KYC, beneficiary management, exchange rates, transactions, and third-party API integrations.
 
-I'm passionate about clean architecture, performance optimization, scalable applications, and solving real-world problems.
+In my current role, along with development, I’ve also been involved in technical decision-making, code reviews, debugging production issues, and coordinating with team members to deliver features reliably.
+
+On the backend side, I’m currently strengthening my Node.js and JavaScript skills so I can better understand and contribute to end-to-end application development.
+I’m now looking for an opportunity where I can use my React Native and fintech experience, take on challenging technical problems, and continue growing as a full-stack-oriented engineer.
+
+thankyou
+
 
 ### 🌐 Connect With Me
 
